@@ -81,13 +81,3 @@ streamlit run app.py
 ```
 Then will start the Streamlit server and open your web browser to the default Streamlit page automatically.
 
-
-## TODO List
-- Add `Tracking` capability.
-- Add `Classification` capability.
-- Add `Pose estimation` capability.
-
-
-***
-
-If you also like this project, you may wish to give a `star` (^.^)✨ . If any questions, please raise `issue`~
